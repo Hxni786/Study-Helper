@@ -1,6 +1,6 @@
 # Study-Helper
 By Syed Hassan Dildar to Help and Focus while studing
-
+site is live at https://hxni786.github.io/Study-Helper/
 -------------------------------------------------------------
 
 🌟 FocusFlow: A 3D Animated Smart Study Dashboard
